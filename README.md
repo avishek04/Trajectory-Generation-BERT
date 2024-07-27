@@ -2,6 +2,8 @@
 
 TrajectIQ is a BERT based trajectory imputation system that addresses the challenge of sparse and incomplete trajectory datasets by inserting additional realistic points to enhance accuracy.
 
+https://github.com/user-attachments/assets/bf6fc1a1-09e8-4c33-bed0-e7b44b65c95e
+
 ## Get The Code
 
 To download the code run the command in terminal:
