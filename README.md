@@ -1,6 +1,6 @@
-# TrajectIQ
+# TrajectGen
 
-TrajectIQ is a BERT based trajectory imputation system that addresses the challenge of sparse and incomplete trajectory datasets by inserting additional realistic points to enhance accuracy.
+TrajectGen is a BERT based trajectory imputation system that addresses the challenge of sparse and incomplete trajectory datasets by inserting additional realistic points to enhance accuracy.
 
 ## Get The Code
 
