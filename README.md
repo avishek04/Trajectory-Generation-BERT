@@ -1,13 +1,13 @@
-# TrajectGen
+# Trajectory Generation
 
-TrajectGen is a BERT based trajectory imputation system that addresses the challenge of sparse and incomplete trajectory datasets by inserting additional realistic points to enhance accuracy.
+Trajectory Generation is a BERT based trajectory imputation system that addresses the challenge of sparse and incomplete trajectory datasets by inserting additional realistic points to enhance accuracy.
 
 ## Get The Code
 
 To download the code run the command in terminal:
 
 ```python
-git clone https://github.com/avishek04/Trajectory-Completion-BERT.git
+git clone https://github.com/avishek04/Trajectory-Generation-BERT.git
 ```
 
 # Create Environment
