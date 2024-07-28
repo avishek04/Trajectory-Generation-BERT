@@ -7,7 +7,7 @@ TrajectIQ is a BERT based trajectory imputation system that addresses the challe
 To download the code run the command in terminal:
 
 ```python
-git clone https://github.com/avishek04/BERT-Based-Trajectory-Imputation.git
+git clone https://github.com/avishek04/Trajectory-Completion-BERT.git
 ```
 
 # Create Environment
